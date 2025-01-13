@@ -14,7 +14,7 @@ def deps do
 end
 ```
 
-Documentation can be found at [https://hexdocs.pm/colorex>.](https://hexdocs.pm/colorex).
+Documentation can be found at [https://hexdocs.pm/colorex](https://hexdocs.pm/colorex).
 
 
 ## Why Colorex?
