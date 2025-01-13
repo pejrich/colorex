@@ -34,3 +34,11 @@ I remember the first time I mixed yellow and blue together on a computer. As I s
 ### Color Palettes
 
 Colorex has thousands of color palettes you can choose from, or if you prefer to make your own, Colorex has the tools to help.
+
+## Acknowledgements
+
+This was originally a fork of the elixir [css_colors](https://github.com/alvinlindstam/css_colors) library. Though it has diverged quite a bit, I thank them for laying out the foundations.
+
+## License
+
+MIT
