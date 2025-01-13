@@ -31,7 +31,7 @@ defmodule Colorex.MixProject do
   def package do
     [
       licenses: ["MIT"],
-      links: %{"GitHub" => "https://github.com/pejrich/shimmy"}
+      links: %{"GitHub" => "https://github.com/pejrich/colorex"}
     ]
   end
 
