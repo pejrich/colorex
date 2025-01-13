@@ -22,7 +22,8 @@ defmodule Colorex.MixProject do
       # The main page in the docs
       main: "Colorex",
       extras: ["README.md", "NamedColors.md"],
-      before_closing_body_tag: &before_closing_body_tag/1
+      before_closing_body_tag: &before_closing_body_tag/1,
+      source_ref: "master"
     ]
   end
 
